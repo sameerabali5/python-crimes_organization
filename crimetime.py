@@ -1,9 +1,5 @@
-"""Contains solutions to Crimetime
-CPE101
-Section <05>
-Project 4, Crimetime
-Name: <Sameera> <Balijepalli>
-Cal Poly User: <sbalijep>
+"""
+Name: Sameera Balijepalli
 """
 import sys 
 import copy
