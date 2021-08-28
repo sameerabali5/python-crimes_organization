@@ -1,9 +1,5 @@
-"""Contains solutions to Crimetime Tests
-CPE101
-Section <05>
-Project 4, Crimetime Tests
-Name: <Sameera> <Balijepalli>
-Cal Poly User: <sbalijep>
+"""
+Name: Sameera Balijepalli
 """
 import unittest
 from crimetime import Crime
